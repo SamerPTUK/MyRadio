@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_frame">#3dc7df</color>
+
+    <color name="main_title">#373737</color>
+    <color name="sub_title">#a4a4a4</color>
+
+    <color name="card_title">#4a4a4a</color>
+
+
+
+    <color name="top_bg">#f6f6f6</color>
+    <color name="bottom_bg">#fafafa</color>
+
+
+
+
+    <color name="color_flightplanmusic">#FB5A00</color>
+    <color name="color_bicyclemusic">#50E3C2</color>
+    <color name="color_kidsmusic">#FF007F</color>
+    <color name="color_vinylmusic">#4A90E2</color>
+    <color name="color_socialmusic">#F5A623</color>
+    <color name="color_keymusic">#B560FF</color>
+
+</resources>
